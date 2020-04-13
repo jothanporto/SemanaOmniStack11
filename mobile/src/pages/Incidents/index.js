@@ -54,7 +54,7 @@ export default function Incidents() {
           onPress={()=>{}}
           >
            <Text style={styles.detailsButtonText}>Ver mais detalhes</Text>
-          <Feather name="arrow-right" size={16} color="#E02041" />
+          <Feather name="arrow-right" size={16} color="#f988" />
           </TouchableOpacity>
 
         </View>
